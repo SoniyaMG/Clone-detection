@@ -1,5 +1,6 @@
 # Configuration file for ipython.
 
+
 #------------------------------------------------------------------------------
 # InteractiveShellApp(Configurable) configuration
 #------------------------------------------------------------------------------
@@ -36,4 +37,5 @@ c.InteractiveShellApp.extensions = ['autoreload']
 
 ## A file to be run
 # c.InteractiveShellApp.file_to_run = ''
+
 c.InteractiveShellApp.exec_files = ['.ipython-startup.ipy']
